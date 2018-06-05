@@ -262,6 +262,10 @@ table td {
   text-align: center;
 }
 
+.links {
+  text-align: center;
+}
+
 @media only screen and (min-width: 480px) {
   body {
     font-size: 14px;
