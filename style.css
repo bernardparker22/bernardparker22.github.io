@@ -342,4 +342,9 @@ table td {
     page-break-after: avoid;
   }
 
-
+.portrait {
+  left: 50%;
+  margin-right: -50%;
+  width:30%;
+  height: auto;
+}
