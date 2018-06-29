@@ -71,6 +71,8 @@ p {
 
 img {
   max-width: 100%;
+  display: block;
+  text-align: center;
 }
 
 h1 {
@@ -323,7 +325,7 @@ table td {
   }
 
   img {
-    max-width: 100% !important;
+    max-width: 50% !important;
   }
 
   @page :left {
@@ -346,6 +348,6 @@ table td {
 .portrait {
   padding-left: 10%;
   padding-right: 10%;
-  width:auto;
-  height: auto;
+  display: block;
+  text-align: center;
 }
