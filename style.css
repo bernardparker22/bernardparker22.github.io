@@ -267,6 +267,7 @@ table td {
 
 .links {
   text-align: center;
+  font-size: 24pt;
 }
 
 @media only screen and (min-width: 480px) {
